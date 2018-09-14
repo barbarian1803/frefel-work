@@ -1,0 +1,670 @@
+[05-Sep-2018 08:23:56 Europe/Berlin] ::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:23:58 Europe/Berlin] 0::login.php:107:[before upgrade] count(): Parameter must be an array or an object that implements Countable
+[05-Sep-2018 08:24:40 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:24:42 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:24:42 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:26:02 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:26:04 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:26:07 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:26:12 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:26:16 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:26:18 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:26:21 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:26:22 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:26:24 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:26:24 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:26:26 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:26:28 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:27:12 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:28:21 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:28:27 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:28:31 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[05-Sep-2018 08:28:35 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:24:33 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:24:42 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:24:42 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:24:44 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:24:45 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:24:51 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:24:54 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:25:26 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:25:42 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:25:47 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:25:47 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:25:50 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:25:52 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:25:55 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:25:55 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:25:59 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:03 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:07 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:12 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:20 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:22 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:25 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:26 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:29 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:29 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:33 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:38 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:38 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:41 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:43 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:44 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:46 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:46 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:26:48 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:27:09 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:27:51 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:27:52 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:27:52 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:52 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:52 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:52 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:52 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:52 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:52 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:52 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:53 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:54 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0::session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:55 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:27:59 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:02 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:03 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:28 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:29 Europe/Berlin] 0:admin:session.inc:335: htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:31 Europe/Berlin] 0:admin:session.inc:335:[before upgrade] htmlspecialchars(): charset `utf8' not supported, assuming utf-8
+[06-Sep-2018 00:28:32 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:28:34 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:28:34 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:28:37 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:28:39 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:28:41 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:28:43 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:28:45 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:28:50 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:28:52 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:29:00 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:29:07 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:29:09 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:29:15 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:44:55 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:44:57 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:44:57 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:45:01 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:45:08 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:45:14 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:45:28 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:45:32 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 00:45:37 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:28:37 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:28:39 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:28:39 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:28:42 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:28:47 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:37:34 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:37:36 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:37:42 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:37:48 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:37:52 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:37:54 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:38:04 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:38:05 Europe/Berlin] Rounding error 0.01 encountered for trans_type:10,trans_no:1
+[06-Sep-2018 01:38:05 Europe/Berlin] 0:admin:custalloc_db.inc:14: Unhandled exception [0]: Too few arguments to function add_cust_allocation(), 6 passed in D:\xampp\htdocs\frefel\modules\importer\order.php on line 288 and exactly 7 expected.
+[06-Sep-2018 01:38:09 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:38:27 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:38:27 Europe/Berlin] 0:admin:db_pager.inc:293: count(): Parameter must be an array or an object that implements Countable
+[06-Sep-2018 01:38:36 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:38:37 Europe/Berlin] 0:admin:db_pager.inc:293: count(): Parameter must be an array or an object that implements Countable
+[06-Sep-2018 01:38:37 Europe/Berlin] 0:admin:db_pager.inc:293: count(): Parameter must be an array or an object that implements Countable
+[06-Sep-2018 01:39:12 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:39:16 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:39:20 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:39:29 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:39:31 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:39:45 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:39:50 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:39:58 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:40:06 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:40:08 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:40:19 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:40:21 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:40:37 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:40:41 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:41:07 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:41:24 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:42:05 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:42:10 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:42:28 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:42:29 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:43:01 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:43:09 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:43:14 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:43:15 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:43:21 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:43:56 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:44:08 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:44:17 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:47:21 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:47:29 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:47:34 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:47:36 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:48:09 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:48:24 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:48:40 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:48:43 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:48:49 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:49:08 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:49:10 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:49:11 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:49:13 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:49:27 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:49:32 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:49:35 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:49:42 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:49:54 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:50:00 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:50:18 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:50:36 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:50:47 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:50:48 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:51:21 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[06-Sep-2018 01:51:22 Europe/Berlin] Rounding error 0.01 encountered for trans_type:10,trans_no:1
+[06-Sep-2018 01:51:22 Europe/Berlin] 0:admin:custalloc_db.inc:14: Unhandled exception [0]: Too few arguments to function add_cust_allocation(), 6 passed in D:\xampp\htdocs\frefel\modules\importer\order.php on line 288 and exactly 7 expected.
+[06-Sep-2018 01:51:26 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:32:42 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:32:49 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:32:49 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:32:52 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:32:54 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:33:02 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:33:04 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:33:27 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:33:32 Europe/Berlin] 0:admin:items_db.inc:56: Unhandled exception [0]: Too few arguments to function add_item(), 16 passed in D:\xampp\htdocs\frefel\modules\importer\inventory.php on line 138 and at least 17 expected.
+[07-Sep-2018 09:33:35 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:33:37 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:33:40 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:38:28 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:38:32 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:38:35 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:38:38 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:38:43 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:38:53 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[07-Sep-2018 09:38:56 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:13:26 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:13:36 Europe/Berlin] 0::session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:13:36 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:14:46 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:14:50 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:18:32 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:19:04 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:19:05 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:19:11 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:19:15 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:19:23 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:19:30 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:19:33 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:19:42 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:19:44 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:19:47 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:19:49 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:33:34 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:33:35 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:33:35 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:33:37 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:33:46 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:33:46 Europe/Berlin] 0:admin:order_import.php:91: Unhandled exception [0]: Call to undefined function trim_object().
+[14-Sep-2018 06:33:49 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:33:58 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:33:58 Europe/Berlin] 0:admin:db_pager.inc:293: count(): Parameter must be an array or an object that implements Countable
+[14-Sep-2018 06:34:03 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:34:03 Europe/Berlin] 0:admin:db_pager.inc:293: count(): Parameter must be an array or an object that implements Countable
+[14-Sep-2018 06:34:46 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:34:46 Europe/Berlin] 0:admin:db_pager.inc:293: count(): Parameter must be an array or an object that implements Countable
+[14-Sep-2018 06:34:47 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:34:49 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:34:54 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 06:34:54 Europe/Berlin] 0:admin:order_import.php:91: Unhandled exception [0]: Call to undefined function trim_object().
+[14-Sep-2018 07:09:48 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:09:49 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:09:58 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:10:21 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:10:32 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:10:43 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:12:38 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:12:43 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:12:43 Europe/Berlin] 0:admin:order_import.php:97: Unhandled exception [0]: Call to undefined function trim_object().
+[14-Sep-2018 07:13:06 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:13:07 Europe/Berlin] 0:admin:order_import.php:98: Unhandled exception [0]: Call to undefined function trim_object().
+[14-Sep-2018 07:13:10 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:13:15 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:13:15 Europe/Berlin] 0:admin:order_import.php:98: Unhandled exception [0]: Call to undefined function trim_object().
+[14-Sep-2018 07:13:52 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:13:57 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:13:57 Europe/Berlin] 0:admin:order_import.php:97: Unhandled exception [0]: Call to undefined function trim_object().
+[14-Sep-2018 07:14:25 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:14:30 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:14:30 Europe/Berlin] 0:admin:order_import.php:97: Unhandled exception [0]: Call to undefined function trim_object().
+[14-Sep-2018 07:14:47 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:14:52 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:14:52 Europe/Berlin] 0:admin:order_import.php:97: Unhandled exception [0]: Call to undefined function trim_object().
+[14-Sep-2018 07:14:59 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:14:59 Europe/Berlin] 0:admin:order_import.php:97: Unhandled exception [0]: Call to undefined function trim_object().
+[14-Sep-2018 07:15:09 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:15:21 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:15:21 Europe/Berlin] 0:admin:order_import.php:97: Unhandled exception [0]: Call to undefined function trim_object().
+[14-Sep-2018 07:15:44 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:15:44 Europe/Berlin] 0:admin:order_import.php:97: Unhandled exception [0]: Call to undefined function trim_object().
+[14-Sep-2018 07:17:18 Europe/Berlin] 0:admin:session.inc:432:[before upgrade] ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[14-Sep-2018 07:19:34 Europe/Berlin] Rounding error 0.01 encountered for trans_type:10,trans_no:1
+[14-Sep-2018 07:20:14 Europe/Berlin] Rounding error 0.01 encountered for trans_type:10,trans_no:299
+[14-Sep-2018 07:20:21 Europe/Berlin] Rounding error 0.01 encountered for trans_type:10,trans_no:351
+[14-Sep-2018 07:20:28 Europe/Berlin] Rounding error 0.01 encountered for trans_type:10,trans_no:388
+[14-Sep-2018 07:20:34 Europe/Berlin] Rounding error 0.01 encountered for trans_type:10,trans_no:427
+[14-Sep-2018 07:21:09 Europe/Berlin] Rounding error 0.01 encountered for trans_type:10,trans_no:615
+[14-Sep-2018 07:21:47 Europe/Berlin] 0:admin:tcpdf.php:2609: include(D:\xampp\htdocs\frefel\reporting\includes/../fonts/dejavu.php): failed to open stream: No such file or directory
+[14-Sep-2018 07:21:47 Europe/Berlin] 0:admin:tcpdf.php:2609: include(): Failed opening 'D:\xampp\htdocs\frefel\reporting\includes/../fonts/dejavu.php' for inclusion (include_path='D:\xampp\php\PEAR')
+[14-Sep-2018 07:42:12 Europe/Berlin] Rounding error 0.01 encountered for trans_type:10,trans_no:1
+[14-Sep-2018 07:43:13 Europe/Berlin] Rounding error 0.01 encountered for trans_type:10,trans_no:299
+[14-Sep-2018 07:43:22 Europe/Berlin] Rounding error 0.01 encountered for trans_type:10,trans_no:351
+[14-Sep-2018 07:43:27 Europe/Berlin] Rounding error 0.01 encountered for trans_type:10,trans_no:388
+[14-Sep-2018 07:43:33 Europe/Berlin] Rounding error 0.01 encountered for trans_type:10,trans_no:427
+[14-Sep-2018 07:44:04 Europe/Berlin] Rounding error 0.01 encountered for trans_type:10,trans_no:615
