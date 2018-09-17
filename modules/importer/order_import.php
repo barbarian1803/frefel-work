@@ -50,7 +50,7 @@ start_form(true);
 
 br();
 
-echo "<center><h3>Inventory file uploader</h3></center>";
+echo "<center><h3>Order/Invoices File Uploader</h3></center>";
 
 start_outer_table(TABLESTYLE2);
 
@@ -91,10 +91,12 @@ function processData($upload_result) {
     fwrite($file, $feed);
     fclose($file);
     $orders = simplexml_load_file("files/test.xml");
-    logger($orders->ORDER);
     $i=0;
     foreach ($orders->ORDER as $order) {
         $order = trim_object($order);
+        //format date
+        $order->date_added = sql2date(explode(" ", $order->date_added)[0]);
+        
         // get customer info
         $debtor_ref = $order->lastname." ".$order->firstname."_".$order->customer_id;
         
@@ -102,7 +104,10 @@ function processData($upload_result) {
         if($customer["debtor_no"] == null){
             $customer = get_customer_by_fuzzy_ref($order->customer_id);
         }
-        
+        update_customer_curr($customer["debtor_no"], $order->currency_code);
+        if($order->currency_code!= get_company_currency()){
+            add_exchange_rate($order->currency_code, $order->date_added,$order->currency_value,$order->currency_value);        
+        }
         $branch = get_cust_branch_by_ref($debtor_ref);
         if($branch["branch_code"] == null){
             $branch = get_cust_branch_by_ref($order->customer_id,false);
@@ -125,7 +130,7 @@ function processData($upload_result) {
         
         if($branch["br_name"] != $order_name && $order_name != "- -" && $order->customer_id == 2){
             
-            add_customer($order_name, $order_ref."_".$order->customer_id, $address, "", get_company_currency(), 
+            add_customer($order_name, $order_ref."_".$order->customer_id, $address, "", $order->currency_code,
                 $customer['dimension_id'], $customer['dimension2_id'], $customer['credit_status'], 
                 $customer['payment_terms'], $customer['discount'], $customer['pymt_discount'], 
                 $customer['credit_limit'], $customer["payment_terms"], "");
@@ -153,8 +158,6 @@ function processData($upload_result) {
             continue;
         }       
         
-        $order->date_added = sql2date(explode(" ", $order->date_added)[0]);
-        
         $totals = $order->ORDERTOTALS->ORDERTOTAL;
         $sub_total = 0;
         $shipping = 0;
@@ -162,7 +165,7 @@ function processData($upload_result) {
         
         $items = array();
         
-        $order->currency_code[0] = get_company_currency();
+        //$order->currency_code[0] = get_company_currency();
         
         foreach($totals as $total_item){
             if($total_item->code=="tax"){
@@ -198,7 +201,7 @@ function processData($upload_result) {
         $item_list = $order->ORDERPRODUCTS->ORDERPRODUCT;
         $item_data = "";
         foreach($item_list as $item){
-            $item_data .= $item->name." ".$item->model." @".$order->currency_code[0]." ". number_format(floatval($item->price),4)." x ".$item->quantity."\n\n";
+            $item_data .= $item->name." ".$item->model." @".$order->currency_code." ". number_format(floatval($item->price),4)." x ".$item->quantity."\n\n";
         }
         $cart->Comments = "Invoice for sales order ".$order->order_id."\n".$item_data;
                 
