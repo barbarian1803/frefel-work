@@ -24,8 +24,8 @@ class hooks_importer extends hooks {
         switch ($app->id) {
             case 'importer':
                 $app->add_lapp_function(0, _("Import &Customer"), $path_to_root . "/modules/importer/customer.php?", 'SA_BACKUP', MENU_SYSTEM);
-                $app->add_lapp_function(0, _("Import &Inventory"), $path_to_root . "/modules/importer/inventory.php?", 'SA_BACKUP', MENU_SYSTEM);
                 $app->add_lapp_function(0, _("Import &Order/Invoice"), $path_to_root . "/modules/importer/order_import.php?", 'SA_BACKUP', MENU_SYSTEM);
+                $app->add_lapp_function(0, _("Import postfinance data"), $path_to_root . "/modules/importer/postfinance_import.php?", 'SA_BACKUP', MENU_SYSTEM);
                 //$app->add_lapp_function(0, _("Reformat postfinance data"), $path_to_root . "/modules/importer/postfinance.php?", 'SA_BACKUP', MENU_SYSTEM);
                 break;
         }

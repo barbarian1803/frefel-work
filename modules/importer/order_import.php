@@ -164,9 +164,7 @@ function processData($upload_result) {
         $total = 0;
         
         $items = array();
-        
-        //$order->currency_code[0] = get_company_currency();
-        
+                
         foreach($totals as $total_item){
             if($total_item->code=="tax"){
                 $items["v_".$total_item->title] = floatval($total_item->value);
@@ -249,13 +247,13 @@ function extract_item($items,$sub_total){
         if(contains("2,5%",$tax_name)){
             $data[$idx]["stock_id"] = "T25";
             $data[$idx]["description"] = "Sales order item (tax 2,5%)";
-            $data[$idx]['price'] = ($value*100)/2.5;
+            $data[$idx]['price'] = $value + (($value*100)/2.5);
             $data[$idx]['tax'] = $value;
             $data[$idx]['qty'] = 1;
         }elseif (contains("8%",$tax_name)){
             $data[$idx]["stock_id"] = "T8";
             $data[$idx]["description"] = "Sales order item (tax 8%)";
-            $data[$idx]['price'] = ($value*100)/8;
+            $data[$idx]['price'] = $value + (($value*100)/8);
             $data[$idx]['tax'] = $value;
             $data[$idx]['qty'] = 1;
         }

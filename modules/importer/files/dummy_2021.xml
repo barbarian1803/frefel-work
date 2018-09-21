@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ORDERS>
+<ORDER>
+		<order_id>2021</order_id>
+		<invoice_no>0</invoice_no>
+		<invoice_prefix>R-00</invoice_prefix>
+		<store_id>5</store_id>
+		<store_name>Beck Protokoll</store_name>
+		<store_url>http://beck-zapper.ch/</store_url>
+		<customer_id>1023</customer_id>
+		<customer_group_id>1</customer_group_id>
+		<firstname>Kees</firstname>
+		<lastname>Bergisch</lastname>
+		<email>keesbergisch@bluewin.ch</email>
+		<telephone>0763847082</telephone>
+		<fax></fax>
+		<custom_field></custom_field>
+		<payment_firstname>Kees</payment_firstname>
+		<payment_lastname>Bergisch</payment_lastname>
+		<payment_company></payment_company>
+		<payment_address_1>Im Ehrmerk 9</payment_address_1>
+		<payment_address_2></payment_address_2>
+		<payment_city>Wallenwil</payment_city>
+		<payment_postcode>8360</payment_postcode>
+		<payment_country>Switzerland</payment_country>
+		<payment_country_id>204</payment_country_id>
+		<payment_zone></payment_zone>
+		<payment_zone_id>0</payment_zone_id>
+		<payment_address_format>{company}
+{firstname} {lastname}
+{address_1}
+{address_2}
+{postcode} {city}</payment_address_format>
+		<payment_custom_field></payment_custom_field>
+		<payment_method>Überweisung</payment_method>
+		<payment_code>bank_transfer</payment_code>
+		<shipping_firstname>Kees</shipping_firstname>
+		<shipping_lastname>Bergisch</shipping_lastname>
+		<shipping_company></shipping_company>
+		<shipping_address_1>Im Ehrmerk 9</shipping_address_1>
+		<shipping_address_2></shipping_address_2>
+		<shipping_city>Wallenwil</shipping_city>
+		<shipping_postcode>8360</shipping_postcode>
+		<shipping_country>Switzerland</shipping_country>
+		<shipping_country_id>204</shipping_country_id>
+		<shipping_zone></shipping_zone>
+		<shipping_zone_id>0</shipping_zone_id>
+		<shipping_address_format>{company}
+{firstname} {lastname}
+{address_1}
+{address_2}
+{postcode} {city}</shipping_address_format>
+		<shipping_custom_field></shipping_custom_field>
+		<shipping_method>Versand</shipping_method>
+		<shipping_code>dostavkaplus.sh5</shipping_code>
+		<comment></comment>
+		<customer>Kees Bergisch</customer>
+		<status>Abgeschlossen</status>
+		<order_status_id>5</order_status_id>
+		<total>118.3500</total>
+		<affiliate_id>0</affiliate_id>
+		<commission>0.0000</commission>
+		<marketing_id>0</marketing_id>
+		<tracking></tracking>
+		<language_id>4</language_id>
+		<currency_code>CHF</currency_code>
+		<currency_value>1.00000000</currency_value>
+		<ip>80.219.32.170</ip>
+		<accept_language>de,en-US;q=0.7,en;q=0.3</accept_language>
+		<user_agent>Mozilla/5.0 (Windows NT 6.1; rv:43.0) Gecko/20100101 Firefox/43.0</user_agent>
+		<forwarded_ip></forwarded_ip>
+		<date_added>2016-01-05 19:58:49</date_added>
+		<date_modified>2016-01-26 16:21:11</date_modified>
+		<ORDERPRODUCTS>
+			<ORDERPRODUCT>
+				<order_product_id>3679</order_product_id>
+				<order_id>2021</order_id>
+				<product_id>226</product_id>
+				<name>TDS-Messgerät Kalibrierlösung 20ml</name>
+				<model>UO KAL01</model>
+				<quantity>1</quantity>
+				<price>3.3333</price>
+				<total>3.3333</total>
+				<tax>0.2667</tax>
+				<reward>0</reward>
+				<ORDEROPTIONS>
+				</ORDEROPTIONS>
+			</ORDERPRODUCT>
+			<ORDERPRODUCT>
+				<order_product_id>3677</order_product_id>
+				<order_id>2021</order_id>
+				<product_id>115</product_id>
+				<name>Zerstäuberpumpe DIN 18 mit Schutzkappe</name>
+				<model>BG Zerstäuber</model>
+				<quantity>1</quantity>
+				<price>4.3981</price>
+				<total>4.3981</total>
+				<tax>0.3518</tax>
+				<reward>0</reward>
+				<ORDEROPTIONS>
+				</ORDEROPTIONS>
+			</ORDERPRODUCT>
+			<ORDERPRODUCT>
+				<order_product_id>3678</order_product_id>
+				<order_id>2021</order_id>
+				<product_id>116</product_id>
+				<name>Braunglasflasche 100 ml mit Tropfverschluss</name>
+				<model>BG Glas 100ml</model>
+				<quantity>2</quantity>
+				<price>2.7778</price>
+				<total>5.5556</total>
+				<tax>0.2222</tax>
+				<reward>0</reward>
+				<ORDEROPTIONS>
+				</ORDEROPTIONS>
+			</ORDERPRODUCT>
+			<ORDERPRODUCT>
+				<order_product_id>3676</order_product_id>
+				<order_id>2021</order_id>
+				<product_id>126</product_id>
+				<name>TDS Messgerät</name>
+				<model>UO TDS01</model>
+				<quantity>1</quantity>
+				<price>31.0185</price>
+				<total>31.0185</total>
+				<tax>2.4815</tax>
+				<reward>0</reward>
+				<ORDEROPTIONS>
+				</ORDEROPTIONS>
+			</ORDERPRODUCT>
+			<ORDERPRODUCT>
+				<order_product_id>3680</order_product_id>
+				<order_id>2021</order_id>
+				<product_id>82</product_id>
+				<name>Silberstäbe für die Ionic-Pulser Kolloid-Generatoren</name>
+				<model>BG Ionic Silberstäbe</model>
+				<quantity>1</quantity>
+				<price>45.8333</price>
+				<total>45.8333</total>
+				<tax>3.6667</tax>
+				<reward>0</reward>
+				<ORDEROPTIONS>
+				</ORDEROPTIONS>
+			</ORDERPRODUCT>
+			<ORDERPRODUCT>
+				<order_product_id>3681</order_product_id>
+				<order_id>2021</order_id>
+				<product_id>114</product_id>
+				<name>Nasenspray-Zerstäuber Gewinde DIN 18</name>
+				<model>BG Nasenspray</model>
+				<quantity>1</quantity>
+				<price>5.5556</price>
+				<total>5.5556</total>
+				<tax>0.4444</tax>
+				<reward>0</reward>
+				<ORDEROPTIONS>
+				</ORDEROPTIONS>
+			</ORDERPRODUCT>
+		</ORDERPRODUCTS>
+		<ORDERHISTORIES>
+			<ORDERHISTORY>
+				<date_added>2016-01-26 16:21:11</date_added>
+				<status>Abgeschlossen</status>
+				<order_status_id>5</order_status_id>
+				<comment>Bezahlt 6.1.15</comment>
+				<notify>0</notify>
+			</ORDERHISTORY>
+			<ORDERHISTORY>
+				<date_added>2016-01-08 12:55:12</date_added>
+				<status>Verschickt – per Rechnung</status>
+				<order_status_id>20</order_status_id>
+				<comment>Guten Tag Herr Bergisch
+
+Vielen Dank für Ihre erneute Bestellung. Ihr Paket wird heute per A-Post verschickt, so dass Sie es am Montag erhalten sollten.
+Ich wünsche Ihnen ein schönes Wochenende und verbleibe
+
+mit herzlichen Grüssen
+Urs Brülhart</comment>
+				<notify>1</notify>
+			</ORDERHISTORY>
+			<ORDERHISTORY>
+				<date_added>2016-01-05 20:07:35</date_added>
+				<status>Bestellung angenommen</status>
+				<order_status_id>1</order_status_id>
+				<comment>Bitte angezeigten Gesamtbetrag auf nachstehendes Bankkonto überweisen.
+
+Einzahlungen bitte auf Konto:
+
+Postfinance
+frefel SHOP &amp; Co.
+Im Graben 15
+4451 Wintersingen
+
+Zahlungen in Schweizer Franken:
+PC 60-650527-6
+IBAN: CH42 0900 0000 6065 0527 6
+BIC: POFICHBEXXX
+
+Banküberweisung</comment>
+				<notify>1</notify>
+			</ORDERHISTORY>
+		</ORDERHISTORIES>
+		<ORDERTOTALS>
+			<ORDERTOTAL>
+				<title>Zwischensumme</title>
+				<code>sub_total</code>
+				<value>95.6944</value>
+				<sort_order>1</sort_order>
+			</ORDERTOTAL>
+			<ORDERTOTAL>
+				<title>Versand</title>
+				<code>shipping</code>
+				<value>15.0000</value>
+				<sort_order>3</sort_order>
+			</ORDERTOTAL>
+			<ORDERTOTAL>
+				<title>8% MwSt.</title>
+				<code>tax</code>
+				<value>7.6556</value>
+				<sort_order>5</sort_order>
+			</ORDERTOTAL>
+			<ORDERTOTAL>
+				<title>Gesamt</title>
+				<code>total</code>
+				<value>118.3500</value>
+				<sort_order>9</sort_order>
+			</ORDERTOTAL>
+		</ORDERTOTALS>
+	</ORDER>
+</ORDERS>

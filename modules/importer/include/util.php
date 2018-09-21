@@ -96,3 +96,10 @@ function update_customer_curr($customer_id, $curr_code)
 	$sql = "UPDATE ".TB_PREF."debtors_master SET curr_code=".db_escape($curr_code) . "WHERE debtor_no = ".db_escape($customer_id);
 	db_query($sql,"The customer could not be updated");
 }
+
+function get_debtor_trans_by_ref($ref){
+    $sql = "SELECT * FROM ".TB_PREF."debtor_trans WHERE reference=".db_escape($ref);
+
+    $result = db_query($sql, "could not get shipper");
+    return db_fetch_assoc($result);
+}
